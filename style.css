@@ -1,7 +1,16 @@
 
-
-body{
-    background-color: green;
-    color: blue;
+.green {
+    color: green;
 }
 
+.red {
+    color: red;
+}
+
+.cub {
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
